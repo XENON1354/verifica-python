@@ -31,3 +31,4 @@ while x == True:
         x = False
     else:
         print("Scelta non valida riprova")
+        scelta = input("Scegli pwd semplice o complessa: ").lower()
